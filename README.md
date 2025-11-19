@@ -1,4 +1,4 @@
-<img class='wp-image-345 aligncenter' src='pizza_images/pizza.jpeg'></img>
+<img class='wp-image-345 aligncenter' src='https://media.licdn.com/dms/image/v2/D5612AQEifegCRHYcdw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1716196277228?e=1765411200&v=beta&t=u9QQ3MrFz5ckRW10iidaO6Ist4PNHQnHXVwmqxqxrV8'></img>
 
 # 🍕 Pizza Sales Analysis Dashboard
 
